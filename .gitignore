@@ -50,3 +50,4 @@ amplifytools.xcconfig
 #amplify-do-not-edit-end
 branch_structure.json
 temp_interactive_push.bat
+temp_auto_push.bat
