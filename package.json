@@ -6,9 +6,9 @@
   "homepage": "https://devias.io",
   "private": false,
   "scripts": {
-    "dev": "node api.js && next",
-    "build": "node api.js && next build",
-    "start": "node api.js && next start",
+    "dev": "node init && next",
+    "build": "node init && next build",
+    "start": "node init && next start",
     "export": "next export",
     "lint": "next lint",
     "lint-fix": "next lint --fix"
